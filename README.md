@@ -8,7 +8,7 @@
 
 ##
 
-### * [vsr 2.1 - 2.3](/vsr/Kuznetsov%20Anton%2C%20IVT4%2C%22VSR2.1-2.3.pdf)
+### * [vsr 2.1 - 2.3](/vsr/Kuznetsov%20Anton%2C%20IVT4%2C%22vsr2.1-2.3.pdf)
 
 ## Report
 ### * [Tasks](/REPORT/)
