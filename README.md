@@ -4,14 +4,11 @@
 
 ## Pactice-2022
 
-### * [isr 1.1 - 1.3](/PDF/Kuznetsov%20Anton%2C%20IVT4%2C%20ISR1.1.pdf)
+### * [isr 1.1 - 1.3](/isr/Kuznetsov%20Anton%2C%20IVT4%2C%22isr1-3.pdf)
 
 ##
 
-### * [vsr 2.1 - 2.3](/PDF/Kuznetsov%20Anton%2C%20IVT4%2C%20VSR2.1.pdf)
-
-### * [vsr 2.2](/PDF/Kuznetsov%20Anton%2C%20IVT4%2C%20VSR2.2.pdf)
-
+### * [vsr 2.1 - 2.3](/vsr/Kuznetsov%20Anton%2C%20IVT4%2C%22VSR2.1-2.3.pdf)
 
 ## Report
 ### * [Tasks](/REPORT/)
